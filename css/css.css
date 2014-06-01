@@ -1,0 +1,33 @@
+.wrapper { 
+height: 960px;
+width: 960px;
+}
+
+#grid > .square { 
+width: 60px;
+height: 60px;
+background-color: #F0F0F0;
+float: left;
+}
+
+#grid > .squareG {
+
+background-color: #F0F0F0;
+float: left;
+	
+}
+
+
+
+
+
+#grid .hover {
+
+	background-color: #FF0;
+
+}
+
+
+
+	
+
